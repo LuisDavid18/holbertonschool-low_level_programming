@@ -1,2 +1,2 @@
 #!/bin/bash
-ix -Gn root
+id -Gn root
